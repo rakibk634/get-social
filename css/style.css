@@ -1,0 +1,102 @@
+h1 {
+  color: rgb(2, 33, 90);
+  padding-right: 55%;
+  font-size: 55px;
+  padding-left: 3%;
+  line-height: 0.9em;
+}
+
+.nibh {
+  font-size: 40px;
+  color: rgb(175, 77, 6);
+  margin-top: 2%;
+  padding-left: 3%;
+}
+
+p {
+  padding-right: 35%;
+  padding-left: 3%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+}
+
+#im {
+  border-radius: 10%;
+  padding-left: 3%;
+}
+
+.form {
+  padding-left: 3%;
+}
+
+.label {
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.name {
+  width: 75%;
+  height: 35px;
+  margin-top: 3px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  font-size: 15px;
+}
+
+.button {
+  width: 75%;
+  background-color: rgb(10, 38, 117);
+  color: azure;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.mf {
+  width: 30%;
+  border: rgb(61, 61, 61) 3px solid;
+  padding-bottom: 40px;
+  padding-right: 15px;
+  padding-top: 30px;
+  padding-left: 15px;
+  background-color: tan;
+  margin-left: 3%;
+  margin-bottom: 5%;
+}
+
+.vid {
+  padding-left: 3%;
+}
+
+.aud {
+  padding-left: 3%;
+  margin-top: 2%;
+}
+
+.hac {
+  padding-left: 1%;
+  padding-right: 35%;
+  margin-top: 3%;
+  margin-bottom: 2%;
+}
+
+.link {
+  padding-left: 3%;
+}
+
+.head {
+  padding-left: 3%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  background-color: black;
+  color: aqua;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.subnav {
+  padding-left: 1%;
+  color: aqua;
+}
